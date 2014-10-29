@@ -51,9 +51,9 @@ public class HelloForm extends JFrame {
 		btnNewButton.setBounds(201, 291, 109, 35);
 		panel.add(btnNewButton);
 
-		JLabel lblNewLabel = new JLabel("Hello World");
+		JLabel lblNewLabel = new JLabel("Hello World !");
 		lblNewLabel.setFont(new Font("Tahoma", Font.PLAIN, 47));
-		lblNewLabel.setBounds(147, 134, 247, 53);
+		lblNewLabel.setBounds(147, 134, 288, 53);
 		panel.add(lblNewLabel);
 	}
 
